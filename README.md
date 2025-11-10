@@ -13,6 +13,6 @@ J. Cabacinho, "TRNG Performance Survey 1985-2025," [Online]. Available: [https:/
 ```
 
 **Related Material**  
-* 
+* M. Alioto, "Trends in Hardware Security: From Basics to ASICs," in IEEE Solid-State Circuits Magazine, vol. 11, no. 3, pp. 56-74, Summer 2019, doi: 10.1109/MSSC.2019.2923503.  
 
 
