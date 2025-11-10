@@ -12,7 +12,7 @@ J. Cabacinho, "TRNG Performance Survey 1985-2025," [Online]. Available: [https:/
 }
 ```
 
-**Related Material** 
+**Related Material**  
 * 
 
 
