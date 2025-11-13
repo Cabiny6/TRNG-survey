@@ -1,7 +1,7 @@
 # TRNG Performance Survey
 *Data collection from 2000-2025*
 
-For use in publications and presentations please cite as follows:  
+For use in your work, please cite as follows:  
 J. Cabacinho, "TRNG Performance Survey 2000-2025," [Online]. Available: [https://github.com/Cabiny6/TRNG-survey].
 
 ```
